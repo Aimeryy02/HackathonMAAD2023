@@ -1,0 +1,24 @@
+.header__main {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .header__main .header__logo img {
+    width: 200px;
+    margin-top: 25px;
+  }
+  
+  .header__main .header__list {
+    display: flex;
+  }
+  
+  .header__list .item__nav {
+    list-style: none;
+    margin: 15px ;
+  }
+  
+  .header__list .item__nav .item__link {
+    color: black;
+    text-decoration:none;
+    font-size: 20px;
+  }
